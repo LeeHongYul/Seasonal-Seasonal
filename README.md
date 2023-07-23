@@ -10,8 +10,7 @@
 - 2021년 11월 ~ 2021 12월
 ### 기술 스택
   - Language : Java
-  - DB : SQLite
-  -    
+  - DB: SQLite 
 ### UI
 <img width="800" height="360" src="https://github.com/LeeHongYul/TIL/assets/117960228/23e2aee2-613f-42d7-984f-98ff30d590df"> 
 
